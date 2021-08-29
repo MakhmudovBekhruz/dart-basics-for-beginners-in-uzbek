@@ -139,5 +139,3 @@
 [Lesson 64. dartda cli application yaratish](https://github.com/MakhmudovBekhruz/dart-basics-for-beginners-in-uzbek/tree/main/Lesson%2064.%20dartda%20cli%20application%20yaratish/dart_hello_world)
 
 [Lesson 65. pub bilan ishlash](https://github.com/MakhmudovBekhruz/dart-basics-for-beginners-in-uzbek/tree/main/Lesson%2065.%20pub%20bilan%20ishlash/pub_bilan_ishlash)
-
-[Lesson 66. Mundarija, Maslahatlar](https://github.com/MakhmudovBekhruz/dart-basics-for-beginners-in-uzbek/tree/main/Lesson%2066.%20Mundarija%2C%20Maslahatlar)
