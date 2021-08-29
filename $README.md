@@ -1,5 +1,5 @@
 # Dart dasturlash tilidan boshlang'ich tushunchalar kursi uchun mundarija
-## Fikr va mulohazalaringizni kurs muallifiga yo'lashingiz mumkin [Telegram account](https://t.me/Bekhruz_M)
+## Fikr va mulohazalaringizni kurs muallifiga yo'llashingiz mumkin [Telegram account](https://t.me/Bekhruz_M)
 
 
 
